@@ -4,6 +4,13 @@ An advanced filtering and deck builder for the trading card game Poxnora.
 
 Live website can be found here: https://poxala-fa4ce.web.app/
 
+Written in Vue JS
+Tailwind for styling
+Firebase (Firestore & firebase functions) for backend
+
+
+
+
 ## Project setup
 ```
 yarn install
