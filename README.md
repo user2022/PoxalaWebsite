@@ -1,4 +1,4 @@
-# poxnora
+# Filtering and Deckbuilder website for the trading card game Poxnora
 
 An advanced filtering and deck builder for the trading card game Poxnora.
 
